@@ -1,4 +1,4 @@
-package examsecurity.demo.config.UserDetail;
+package examsecurity.demo.SecurityConfig.UserDetail;
 
 import examsecurity.demo.Repository.UserRep;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -6,8 +6,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
-
-import javax.annotation.PostConstruct;
 
 @Configuration
 public class InMemoryUser implements UserDetailsService {

@@ -1,4 +1,4 @@
-package examsecurity.demo.config.UserDetail;
+package examsecurity.demo.SecurityConfig.UserDetail;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

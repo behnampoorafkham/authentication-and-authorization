@@ -1,4 +1,4 @@
-package examsecurity.demo.config;
+package examsecurity.demo.SecurityConfig.Provider;
 
 import org.springframework.security.authentication.AuthenticationCredentialsNotFoundException;
 import org.springframework.security.authentication.AuthenticationProvider;

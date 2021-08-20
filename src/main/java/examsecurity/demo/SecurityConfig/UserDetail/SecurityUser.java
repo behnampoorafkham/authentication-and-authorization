@@ -1,4 +1,4 @@
-package examsecurity.demo.config.UserDetail;
+package examsecurity.demo.SecurityConfig.UserDetail;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
