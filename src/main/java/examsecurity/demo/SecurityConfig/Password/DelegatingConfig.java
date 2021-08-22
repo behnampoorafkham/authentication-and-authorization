@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.Random;
 
 @Configuration
-public class ProjectConfig {
+public class DelegatingConfig {
     // Omitted code
     @Bean
     public PasswordEncoder passwordEncoder() {
